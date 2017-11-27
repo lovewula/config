@@ -1,0 +1,78 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:/Project/python/blog" />
+        <option value="D:/Project/python/11_25" />
+        <option value="D:/Project/python/test" />
+        <option value="D:/Project/python/11_24" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:/Project/python/blog" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:/Project/python/blog" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:/Project/python/11_24">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-172.4343.24" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511611512062" />
+              <option name="buildTimestamp" value="1508434837727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Project/python/11_25">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-172.4343.24" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511705157065" />
+              <option name="buildTimestamp" value="1508434800557" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Project/python/blog">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-172.4343.24" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511705359426" />
+              <option name="buildTimestamp" value="1508434800557" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Project/python/test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-172.4343.24" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511611516438" />
+              <option name="buildTimestamp" value="1508434837727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Workspaces/PycharmProjects/SQLAlchemyCourse">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PY-172.3968.37" />
+              <option name="productionCode" value="PY" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1511539748530" />
+              <option name="buildTimestamp" value="1504274486365" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/Project/python" />
+  </component>
+</application>

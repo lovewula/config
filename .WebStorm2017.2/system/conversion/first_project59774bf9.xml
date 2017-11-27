@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="cucumber.js-run-configuration" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\Project\web\first_project\.idea\codeStyleSettings.xml" timestamp="1503760533082" />
+    <file path="D:\Project\web\first_project\.idea\first_project.iml" timestamp="1503760453240" />
+    <file path="D:\Project\web\first_project\.idea\modules.xml" timestamp="1503760453318" />
+    <file path="D:\Project\web\first_project\.idea\workspace.xml" timestamp="1505145147651" />
+  </project-files>
+</conversion>
+

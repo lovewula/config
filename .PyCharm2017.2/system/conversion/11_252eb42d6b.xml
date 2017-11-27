@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\Project\python\11_25\.idea\11_25.iml" timestamp="1511613351999" />
+    <file path="D:\Project\python\11_25\.idea\misc.xml" timestamp="1511613134356" />
+    <file path="D:\Project\python\11_25\.idea\modules.xml" timestamp="1511613128943" />
+    <file path="D:\Project\python\11_25\.idea\workspace.xml" timestamp="1511704062407" />
+  </project-files>
+</conversion>
+

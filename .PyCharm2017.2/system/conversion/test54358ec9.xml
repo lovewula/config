@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="PythonTestConverterProvider" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\Project\python\test\.idea\codeStyleSettings.xml" timestamp="1511176919675" />
+    <file path="D:\Project\python\test\.idea\deployment.xml" timestamp="1511175581808" />
+    <file path="D:\Project\python\test\.idea\misc.xml" timestamp="1511583599720" />
+    <file path="D:\Project\python\test\.idea\modules.xml" timestamp="1510123730198" />
+    <file path="D:\Project\python\test\.idea\preferred-vcs.xml" timestamp="1510123730167" />
+    <file path="D:\Project\python\test\.idea\remote-mappings.xml" timestamp="1511167381937" />
+    <file path="D:\Project\python\test\.idea\test.iml" timestamp="1511583599660" />
+    <file path="D:\Project\python\test\.idea\webServers.xml" timestamp="1511175581832" />
+    <file path="D:\Project\python\test\.idea\workspace.xml" timestamp="1511598127467" />
+  </project-files>
+</conversion>
+

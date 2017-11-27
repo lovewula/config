@@ -1,0 +1,22 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.Empty Project" count="3" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredBrowser-null.no_mappings" count="3" />
+      <entry feature="OpenInBrowser.Chrome" count="9" />
+      <entry feature="OpenInBrowser.Firefox" count="3" />
+      <entry feature="OpenInBrowser.Internet Explorer" count="1" />
+      <entry feature="OpenInBrowser.Opera" count="1" />
+      <entry feature="OpenInBrowser.Safari" count="1" />
+      <entry feature="execute.JavascriptDebugType.Run" count="3" />
+      <entry feature="ide.help.ideaInterface.editor" count="2" />
+      <entry feature="ide.settings.Code_Style" count="1" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="4" />
+      <entry feature="ide.settings.Font" count="3" />
+      <entry feature="ide.settings.Web_Browsers" count="1" />
+      <entry feature="ideaapp.started" count="47" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="2" />
+      <entry feature="welcome.screen.null" count="3" />
+    </counts>
+  </component>
+</application>

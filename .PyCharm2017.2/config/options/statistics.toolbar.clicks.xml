@@ -1,0 +1,12 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Pause@DebuggerToolbar" count="1" />
+      <entry action="Run@NavBarToolbar" count="15" />
+      <entry action="Stop@DebuggerToolbar" count="1" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="3" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.webcore.packaging.InstalledPackagesPanel$4@ToolbarDecorator" count="1" />
+    </counts>
+  </component>
+</application>

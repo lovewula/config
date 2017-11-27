@@ -1,0 +1,46 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$SelectAll" count="6" />
+      <entry action="$Undo" count="49" />
+      <entry action="Back" count="1" />
+      <entry action="EditorBackSpace" count="1924" />
+      <entry action="EditorChooseLookupItem" count="1" />
+      <entry action="EditorCopy" count="66" />
+      <entry action="EditorCut" count="9" />
+      <entry action="EditorDelete" count="29" />
+      <entry action="EditorDown" count="253" />
+      <entry action="EditorDownWithSelection" count="6" />
+      <entry action="EditorEnter" count="305" />
+      <entry action="EditorEscape" count="1" />
+      <entry action="EditorIndentSelection" count="7" />
+      <entry action="EditorLeft" count="490" />
+      <entry action="EditorLeftWithSelection" count="6" />
+      <entry action="EditorLineEnd" count="39" />
+      <entry action="EditorLineEndWithSelection" count="12" />
+      <entry action="EditorLineStart" count="4" />
+      <entry action="EditorPageDown" count="1" />
+      <entry action="EditorPaste" count="17" />
+      <entry action="EditorPreviousWordWithSelection" count="1" />
+      <entry action="EditorRight" count="323" />
+      <entry action="EditorRightWithSelection" count="2" />
+      <entry action="EditorSelectWord" count="1" />
+      <entry action="EditorSplitLine" count="1" />
+      <entry action="EditorTab" count="394" />
+      <entry action="EditorUnindentSelection" count="11" />
+      <entry action="EditorUp" count="319" />
+      <entry action="EditorUpWithSelection" count="15" />
+      <entry action="ExpandRegion" count="1" />
+      <entry action="InsertLiveTemplate" count="1" />
+      <entry action="NewDir" count="2" />
+      <entry action="NewHtmlFile" count="2" />
+      <entry action="Register" count="3" />
+      <entry action="RunClass" count="1" />
+      <entry action="SaveAll" count="1884" />
+      <entry action="SearchEverywhere" count="2" />
+      <entry action="ShowPopupMenu" count="4" />
+      <entry action="ShowSettings" count="2" />
+      <entry action="ToggleBookmark" count="1" />
+    </counts>
+  </component>
+</application>

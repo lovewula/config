@@ -1,0 +1,18 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="D:\Python\Python27\python.exe" value="false" />
+        <entry key="D:\Python\Python36\python.exe" value="false" />
+        <entry key="ssh://which@192.168.73.130:22/usr/bin/python3" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="D:\Python\Python27\python.exe" value="false" />
+        <entry key="D:\Python\Python36\python.exe" value="false" />
+        <entry key="ssh://which@192.168.73.130:22/usr/bin/python3" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
