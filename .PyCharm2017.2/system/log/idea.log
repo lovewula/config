@@ -5861,3 +5861,82 @@ Elapsed time on auto-detect: 108 ms
 2017-11-26 22:09:27,828 [3525626]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
 2017-11-26 22:09:27,830 [3525628]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
 2017-11-26 22:09:27,831 [3525629]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2017-11-27 14:21:24,959 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2017-11-27 14:21:24,971 [     12]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2017-11-27 14:21:24,971 [     12]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (IDE-managed HiDPI) 
+2017-11-27 14:21:24,975 [     16]   INFO -        #com.intellij.idea.Main - IDE: PyCharm (build #PY-172.4343.24, 20 Oct 2017 01:24) 
+2017-11-27 14:21:24,975 [     16]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2017-11-27 14:21:24,975 [     16]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_152-release-915-b12 (JetBrains s.r.o) 
+2017-11-27 14:21:24,975 [     16]   INFO -        #com.intellij.idea.Main - JVM: 25.152-b12 (OpenJDK 64-Bit Server VM) 
+2017-11-27 14:21:24,979 [     20]   INFO -        #com.intellij.idea.Main - JVM Args: -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -Dsun.io.useCanonCaches=false -Djava.net.preferIPv4Stack=true -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djb.vmOptionsFile=D:\Program Files\JetBrains\PyCharm 2017.2.4\bin\pycharm64.exe.vmoptions -Xbootclasspath/a:D:\Program Files\JetBrains\PyCharm 2017.2.4\lib\boot.jar -Didea.platform.prefix=Python -Didea.paths.selector=PyCharm2017.2 -XX:ErrorFile=C:\Users\which\java_error_in_pycharm_%p.log -XX:HeapDumpPath=C:\Users\which\java_error_in_pycharm.hprof 
+2017-11-27 14:21:24,979 [     20]   INFO -        #com.intellij.idea.Main - ext: D:\Program Files\JetBrains\PyCharm 2017.2.4\jre64\lib\ext: [access-bridge-64.jar, cldrdata.jar, dnsns.jar, jaccess.jar, jfxrt.jar, localedata.jar, meta-index, nashorn.jar, sunec.jar, sunjce_provider.jar, sunmscapi.jar, sunpkcs11.jar, zipfs.jar] 
+2017-11-27 14:21:24,979 [     20]   INFO -        #com.intellij.idea.Main - JNU charset: GBK 
+2017-11-27 14:21:25,030 [     71]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 51 ms 
+2017-11-27 14:21:25,030 [     71]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2017-11-27 14:21:28,786 [   3827]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2017-11-27 14:21:28,954 [   3995]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-java-support.xml 
+2017-11-27 14:21:28,954 [   3995]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-properties-support.xml 
+2017-11-27 14:21:29,197 [   4238]   INFO - llij.ide.plugins.PluginManager - 52 plugins initialized in 583 ms 
+2017-11-27 14:21:29,204 [   4245]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: AngularJS (172.4343.24), CSS Support (172.4343.24), CVS Integration (11), CoffeeScript (2.0), Concurrency Visualiser (0.1), Database Tools and SQL (172.4343.24), Django Database Support Integration (1.0), Docker integration (172.4343.24), EditorConfig (172.4343.24), File Watchers (172.4343.24), GNU GetText files support (*.po) (172.4343.24), Gherkin (999.999), Git Integration (8.1), GitHub (172.4343.24), HTML Tools (2.0), Haml (172.4343.24), IDEA CORE (172.4343.24), IPython Notebook (0.1), Ini4Idea (172.4343.24), IntelliLang (8.0), JavaScript Debugger (1.0), JavaScript Intention Power Pack (0.9.4), JavaScript Support (1.0), Less support (172.4343.24), Perforce Integration (2.0), Puppet Support (172.4343.24), Python BDD support for engines, based on Gherkin (cucumber, lettuce, behave) (0.1), Python Docker (VERSION), Python IntelliLang (VERSION), Python JavaScript Debugger Integration (VERSION), Python Localization Integration (VERSION), Python Profiler (0.1), Python ReStructureText Integration (1.0), Python Remote Interpreter (VERSION), Python Terminal (VERSION), Python UML Diagrams (VERSION), REST Client (172.4343.24), ReStructuredText Support (172.4343.24), Remote Hosts Access (0.1), SSH Remote Run (0.1), Sass support (172.4343.24), Settings Repository (172.4343.24), Stylus support (999.999), Subversion Integration (1.1), Task Management (1.0), Terminal (0.1), TextMate bundles support (172.4343.24), UML Support (1.0), Vagrant (172.4343.24), hg4idea (10.0), tslint (172.4343.24) 
+2017-11-27 14:21:29,204 [   4245]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: YAML (172.4343.24) 
+2017-11-27 14:21:29,525 [   4566]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2017-11-27 14:21:29,580 [   4621]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: D:\Program Files\JetBrains\PyCharm 2017.2.4\bin\fsnotifier64.exe 
+2017-11-27 14:21:29,591 [   4632]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2017-11-27 14:21:29,638 [   4679]   INFO - pi.util.registry.RegistryState - Registry values changed by user: 
+2017-11-27 14:21:29,638 [   4679]   INFO - pi.util.registry.RegistryState -   ide.ssh.one.time.password = true 
+2017-11-27 14:21:30,037 [   5078]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=0.0; restored: fontSize=12, fontScale=1.0 
+2017-11-27 14:21:30,412 [   5453]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2017-11-27 14:21:30,547 [   5588]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2017-11-27 14:21:30,574 [   5615]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2017-11-27 14:21:30,691 [   5732]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:57 
+2017-11-27 14:21:30,695 [   5736]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:4 
+2017-11-27 14:21:30,716 [   5757]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:13 
+2017-11-27 14:21:30,717 [   5758]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2017-11-27 14:21:30,742 [   5783]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2017-11-27 14:21:30,811 [   5852]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.unittestLegacy.PythonUnitTestConfigurationProducer@4a0568e3 
+2017-11-27 14:21:30,811 [   5852]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.pytestLegacy.PyTestConfigurationProducer@7f71e9f7 
+2017-11-27 14:21:30,819 [   5860]   INFO -            PyTestLegacyInterop - Disabling com.jetbrains.python.testing.nosetestLegacy.PythonNoseTestConfigurationProducer@7f17dd58 
+2017-11-27 14:21:30,898 [   5939]   INFO - plication.impl.ApplicationImpl - 81 application components initialized in 2288ms 
+2017-11-27 14:21:30,899 [   5940]   INFO - .intellij.idea.IdeaApplication - App initialization took 6620 ms 
+2017-11-27 14:21:31,614 [   6655]   INFO - ellij.project.impl.ProjectImpl - 14 project components initialized in 230 ms 
+2017-11-27 14:21:32,122 [   7163]   INFO - pl$FileIndexDataInitialization - Initialization done:1427 
+2017-11-27 14:21:32,513 [   7554]   INFO - exImpl$StubIndexInitialization - Initialization done:392 
+2017-11-27 14:21:32,517 [   7558]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2017-11-27 14:21:32,525 [   7566]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=16, fontScale=1.0; restored: fontSize=16, fontScale=1.0 
+2017-11-27 14:21:32,607 [   7648]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=16, fontScale=1.0; restored: fontSize=16, fontScale=1.0 
+2017-11-27 14:21:32,986 [   8027]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.openapi.actionSystem.impl.ActionPreloader@15b6d547 
+2017-11-27 14:21:33,557 [   8598]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.ide.ui.search.SearchableOptionPreloader@18b846d0 
+2017-11-27 14:21:33,964 [   9005]   INFO - .openapi.application.Preloader - Finished preloading com.intellij.codeInsight.completion.CompletionPreloader@713e1ce9 
+2017-11-27 14:21:34,003 [   9044]   INFO - ellij.project.impl.ProjectImpl - 106 project components initialized in 2377 ms 
+2017-11-27 14:21:34,609 [   9650]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 606 ms 
+2017-11-27 14:21:35,082 [  10123]   WARN - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2017-11-27 14:21:36,743 [  11784]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 250ms; general responsiveness: ok; EDT responsiveness: ok 
+2017-11-27 14:21:37,990 [  13031]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 1247ms; general responsiveness: ok; EDT responsiveness: 1/1 sluggish 
+2017-11-27 14:21:38,041 [  13082]   WARN - tectAndAdjustIndentOptionsTask - Indent detection is too long for: blog.py 
+2017-11-27 14:21:38,041 [  13082]   WARN - tectAndAdjustIndentOptionsTask - Indent detection is too long for: front.py 
+2017-11-27 14:21:38,041 [  13082]   WARN - tectAndAdjustIndentOptionsTask - Indent detection is too long for: front.py 
+2017-11-27 14:21:38,041 [  13082]   WARN - tectAndAdjustIndentOptionsTask - Indent detection is too long for: front.py 
+2017-11-27 14:21:39,358 [  14399]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 2869ms under project opening modal progress 
+2017-11-27 14:21:40,139 [  15180]   INFO - tartup.impl.StartupManagerImpl - InitToolWindowsActivity run in 781ms under project opening modal progress 
+2017-11-27 14:21:40,249 [  15290]   INFO - tartup.impl.StartupManagerImpl - ProjectStartupRunner run in 110ms under project opening modal progress 
+2017-11-27 14:21:40,437 [  15478]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 4147ms; general responsiveness: ok; EDT responsiveness: 1/4 sluggish, 1/4 very slow 
+2017-11-27 14:21:41,727 [  16768]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2017-11-27 14:21:41,727 [  16768]   INFO - tartup.impl.StartupManagerImpl - ProjectInspectionProfileStartUpActivity run in 325ms on UI thread 
+2017-11-27 14:21:42,491 [  17532]   INFO - tartup.impl.StartupManagerImpl - PyPackagesUpdater run in 752ms on UI thread 
+2017-11-27 14:21:43,719 [  18760]   INFO - tartup.impl.StartupManagerImpl - JSUnusedDeclarationsStartupActivity run in 106ms on UI thread 
+2017-11-27 14:21:44,020 [  19061]   INFO - tartup.impl.StartupManagerImpl - D:/Project/python/blog/.idea case-sensitivity: expected=false actual=false 
+2017-11-27 14:21:44,048 [  19089]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2017-11-27 14:21:50,061 [  25102]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 18679 ms 
+2017-11-27 14:21:51,328 [  26369]   INFO - ns.python.sdk.PythonSdkUpdater - Updating sys.path took 1623 ms 
+2017-11-27 14:21:51,332 [  26373]   INFO - ns.python.sdk.PythonSdkUpdater - Bogus sys.path entry D:\Python\Python36\python36.zip 
+2017-11-27 14:21:51,332 [  26373]   INFO - ns.python.sdk.PythonSdkUpdater - Binary skeletons directory for SDK Python 3.6.1 (D:\Python\Python36\python.exe) (D:\Python\Python36\python.exe)): C:/Users/which/.PyCharm2017.2/system/python_stubs/-645839530 
+2017-11-27 14:21:51,332 [  26373]   INFO - ns.python.sdk.PythonSdkUpdater - User skeletons directory for SDK Python 3.6.1 (D:\Python\Python36\python.exe) (D:\Python\Python36\python.exe)): D:/Program Files/JetBrains/PyCharm 2017.2.4/helpers/python-skeletons 
+2017-11-27 14:21:51,398 [  26439]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background update of skeletons for SDK Python 3.6.1 (D:\Python\Python36\python.exe) (D:\Python\Python36\python.exe) 
+2017-11-27 14:21:51,402 [  26443]   INFO - .skeletons.PySkeletonRefresher - Refreshing skeletons for D:\Python\Python36\python.exe 
+2017-11-27 14:21:57,837 [  32878]   INFO - .skeletons.PySkeletonGenerator - Retrieving binary module list took 6388 ms 
+2017-11-27 14:21:57,845 [  32886]   INFO - .skeletons.PySkeletonRefresher - Home path is D:\Program Files\JetBrains\PyCharm 2017.2.4 
+2017-11-27 14:21:57,849 [  32890]   INFO - .skeletons.PySkeletonRefresher - Pregenerated skeletons root is D:\Program Files\JetBrains\PyCharm 2017.2.4\skeletons 
+2017-11-27 14:21:57,849 [  32890]   INFO - .skeletons.PySkeletonRefresher - Not found pregenerated skeletons at D:\Program Files\JetBrains\PyCharm 2017.2.4\skeletons\skeletons-win-401-python-3.6.1.zip 
+2017-11-27 14:21:57,896 [  32937]   INFO - .skeletons.PySkeletonRefresher - Rebuilding skeletons for binaries took 36 ms 
+2017-11-27 14:21:57,946 [  32987]   INFO - ns.python.sdk.PythonSdkUpdater - Performing background scan of packages for SDK Python 3.6.1 (D:\Python\Python36\python.exe) (D:\Python\Python36\python.exe) 
+2017-11-27 14:21:57,966 [  33007]   INFO - packaging.PyPackageManagerImpl - Running packaging tool: D:\Python\Python36\python.exe D:\Program Files\JetBrains\PyCharm 2017.2.4\helpers\packaging_tool.py list 
